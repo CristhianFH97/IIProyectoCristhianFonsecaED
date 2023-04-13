@@ -1,0 +1,7 @@
+Sharon
+	Musica,En Proceso,Himno,Alta
+Pipo
+	Sociales,Completada,sumas,Baja
+	Civica,Cancelada,Leyes,Alta
+Martha
+	Espa,Completada,Tildes,Baja
